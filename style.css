@@ -1,0 +1,85 @@
+.google-image{
+    display: block;
+    padding-top: 109px;
+    text-align: -webkit-center;
+}
+
+.search-bar {
+    text-align: -webkit-center;
+}
+
+.footer li {
+    display: inline;
+}
+
+.advertising {
+    padding-left: 20px;
+    padding-right: 15px;
+}
+
+.privacy, .terms, .settings {
+    float: right;
+    padding-right: 30px;
+}
+
+#set {
+    float: right;
+}
+
+#priv {
+    float: left;
+}
+
+.footer {
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    right: 0;
+    border-top-color: rgb(228, 228, 228);
+    background-color: rgb(242,242,242);
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-bottom: -3px;
+}
+
+
+
+.search-bar .bar{
+    margin-top: 20px;
+    opacity: 10%;
+    padding-top: 10px;
+    display: block;
+    padding-right: 100px;
+    padding-left: 100px;
+    width: 30%;
+}
+
+.search-bar .google-search, .search-bar .feeling-lucky {
+    display: inline-block;
+    border-top: 10px;
+}
+
+.nav-bar {
+    position: fixed;
+    top: 10px;
+    width: 100%;
+    right:0;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-bar .about, .nav-bar .store {
+    padding-left: 15px;
+}
+
+.nav-bar .images, .nav-bar .gmail{
+    float: right;
+    padding-right: 15px;
+    
+}
+
+.nav-bar li {
+    display:inline;
+}
